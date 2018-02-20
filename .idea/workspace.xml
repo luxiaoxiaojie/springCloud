@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c21b8435-bc92-430e-916a-c54a7c864f34" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/SpringClouds.iml" afterPath="$PROJECT_DIR$/SpringClouds.iml" />
       <change beforePath="$PROJECT_DIR$/serice-feign/src/main/java/com/xjlu/demo/comtrol/SiController.java" afterPath="$PROJECT_DIR$/serice-feign/src/main/java/com/xjlu/demo/comtrol/SiController.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -106,11 +103,11 @@
         <entry file="file://$PROJECT_DIR$/serice-feign/src/main/java/com/xjlu/demo/comtrol/SiController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#602#603#0" expanded="true" />
-                <element signature="e#665#666#0" expanded="true" />
+                <element signature="e#601#602#0" expanded="true" />
+                <element signature="e#664#665#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -519,12 +516,12 @@
       <updated>1518532601527</updated>
       <workItem from="1518532604491" duration="14208000" />
       <workItem from="1519118654892" duration="29000" />
-      <workItem from="1519119449400" duration="52000" />
+      <workItem from="1519119449400" duration="354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14289000" />
+    <option name="totallyTimeSpent" value="14591000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -639,8 +636,8 @@
           <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -733,8 +730,8 @@
           <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -915,11 +912,11 @@
     <entry file="file://$PROJECT_DIR$/serice-feign/src/main/java/com/xjlu/demo/comtrol/SiController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
           </folding>
         </state>
       </provider>
