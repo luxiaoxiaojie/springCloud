@@ -13,7 +13,7 @@ public class SiController {
     @Autowired
     SchedualService schedualService;
 
-    @RequestMapping(value = "/ss",method = RequestMethod.GET)
+    @RequestMapping(value = "/sss",method = RequestMethod.GET)
     public String sayHi(@RequestParam String name){
         return schedualService.sayHiFromClientOne(name);
     }
