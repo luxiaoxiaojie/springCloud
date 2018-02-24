@@ -12,7 +12,7 @@ public class HelloWord {
     @Autowired
     HelloWordService helloWordService;
 
-    @RequestMapping(value = "/s")
+    @RequestMapping(value = "/sss")
     public String hi(@RequestParam String name){
         return helloWordService.sss(name);
     }
