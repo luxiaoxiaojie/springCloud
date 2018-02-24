@@ -12,7 +12,10 @@
         <module name="demo (4)" />
         <module name="eureka" />
         <module name="eurekaServer" />
+        <module name="feign" />
+        <module name="ribbon" />
         <module name="serice-feign" />
+        <module name="serverOne" />
         <module name="spring-boot" />
         <module name="SpringClouds" />
       </profile>
@@ -24,7 +27,10 @@
       <module name="demo (4)" target="1.8" />
       <module name="eureka" target="1.8" />
       <module name="eurekaServer" target="1.8" />
+      <module name="feign" target="1.8" />
+      <module name="ribbon" target="1.8" />
       <module name="serice-feign" target="1.8" />
+      <module name="serverOne" target="1.8" />
       <module name="spring-boot" target="1.8" />
       <module name="SpringClouds" target="1.8" />
     </bytecodeTargetLevel>
