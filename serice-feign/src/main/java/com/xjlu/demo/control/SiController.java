@@ -1,4 +1,4 @@
-package com.xjlu.demo.comtrol;
+package com.xjlu.demo.control;
 
 import com.xjlu.demo.service.SchedualService;
 import org.springframework.beans.factory.annotation.Autowired;
