@@ -9,7 +9,10 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot/demo (4).iml" filepath="$PROJECT_DIR$/spring-boot/demo (4).iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaServer/eurekaServer.iml" filepath="$PROJECT_DIR$/eurekaServer/eurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serice-feign/feign.iml" filepath="$PROJECT_DIR$/serice-feign/feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-ribbon/ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/serice-feign/serice-feign.iml" filepath="$PROJECT_DIR$/serice-feign/serice-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaServer/serverOne.iml" filepath="$PROJECT_DIR$/eurekaServer/serverOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot/spring-boot.iml" filepath="$PROJECT_DIR$/spring-boot/spring-boot.iml" />
     </modules>
   </component>
