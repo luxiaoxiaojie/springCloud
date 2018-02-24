@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringClouds.iml" filepath="$PROJECT_DIR$/SpringClouds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/demo (1).iml" filepath="$PROJECT_DIR$/eureka/demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaServer/demo (2).iml" filepath="$PROJECT_DIR$/eurekaServer/demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/serice-feign/demo (3) (com.xjlu).iml" filepath="$PROJECT_DIR$/serice-feign/demo (3) (com.xjlu).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot/demo (4).iml" filepath="$PROJECT_DIR$/spring-boot/demo (4).iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaServer/eurekaServer.iml" filepath="$PROJECT_DIR$/eurekaServer/eurekaServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/serice-feign/serice-feign.iml" filepath="$PROJECT_DIR$/serice-feign/serice-feign.iml" />
