@@ -16,6 +16,7 @@
         <module name="ribbon" />
         <module name="serice-feign" />
         <module name="serverOne" />
+        <module name="service-zuul" />
         <module name="spring-boot" />
         <module name="SpringClouds" />
       </profile>
@@ -31,6 +32,7 @@
       <module name="ribbon" target="1.8" />
       <module name="serice-feign" target="1.8" />
       <module name="serverOne" target="1.8" />
+      <module name="service-zuul" target="1.8" />
       <module name="spring-boot" target="1.8" />
       <module name="SpringClouds" target="1.8" />
     </bytecodeTargetLevel>

@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/eurekaServer/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot/pom.xml" />
         <option value="$PROJECT_DIR$/serice-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/service-zuul/pom.xml" />
       </list>
     </option>
   </component>
