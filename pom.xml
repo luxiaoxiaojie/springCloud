@@ -3,9 +3,12 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.xjlu</groupId>
   <artifactId>SpringCloud</artifactId>
-  <packaging>war</packaging>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>SpringCloud Maven Webapp</name>
+    <modules>
+        <module>quartz</module>
+    </modules>
+    <name>SpringCloud Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>

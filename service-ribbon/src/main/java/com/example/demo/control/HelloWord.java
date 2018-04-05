@@ -14,6 +14,9 @@ public class HelloWord {
 
     @RequestMapping(value = "/sss")
     public String hi(@RequestParam String name){
+
         return helloWordService.sss(name);
+
+
     }
 }
