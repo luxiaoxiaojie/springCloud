@@ -14,6 +14,7 @@
         <module name="feign" />
         <module name="ribbon" />
         <module name="serice-feign" />
+        <module name="server-concurrent" />
         <module name="server-quartz" />
         <module name="serverOne" />
         <module name="service-zuul" />
@@ -30,6 +31,7 @@
       <module name="feign" target="1.8" />
       <module name="ribbon" target="1.8" />
       <module name="serice-feign" target="1.8" />
+      <module name="server-concurrent" target="1.8" />
       <module name="server-quartz" target="1.8" />
       <module name="serverOne" target="1.8" />
       <module name="service-zuul" target="1.8" />

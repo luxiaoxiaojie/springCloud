@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/serice-feign/feign.iml" filepath="$PROJECT_DIR$/serice-feign/feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-ribbon/ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/serice-feign/serice-feign.iml" filepath="$PROJECT_DIR$/serice-feign/serice-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-concurrent/server-concurrent.iml" filepath="$PROJECT_DIR$/server-concurrent/server-concurrent.iml" />
       <module fileurl="file://$PROJECT_DIR$/server-quartz/server-quartz.iml" filepath="$PROJECT_DIR$/server-quartz/server-quartz.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaServer/serverOne.iml" filepath="$PROJECT_DIR$/eurekaServer/serverOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
